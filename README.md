@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Olá, eu sou Fagner de Sales Araujo
 
-<!--
-**FagnerSalles22/FagnerSalles22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer | HTML • CSS • JavaScript • C#, dedicado ao desenvolvimento de software e ao aprimoramento contínuo de conhecimentos em tecnologia.
 
-Here are some ideas to get you started:
+Atualmente estou aprimorando minhas habilidades através de projetos práticos e estudos constantes, buscando minha primeira oportunidade como Desenvolvedor.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mim
+
+* 💻 Desenvolvendo projetos para aprimorar minhas habilidades técnicas.
+* 🌐 Desenvolvendo landing pages modernas, responsivas e focadas na experiência do usuário.
+* 📚 Estudando HTML, CSS, JavaScript e C#.
+* 🌱 Aprendendo continuamente novas tecnologias e boas práticas.
+* 🎯 Em busca da minha primeira oportunidade como Desenvolvedor.
+
+---
+
+## 🛠️ Tecnologias
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html" height="45"/>
+<img src="https://skillicons.dev/icons?i=css" height="45"/>
+<img src="https://skillicons.dev/icons?i=javascript" height="45"/>
+<img src="https://skillicons.dev/icons?i=cs" height="45"/>
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="45"/>
+
+</p>
+
+---
+
+## 📫 Contato
+
+<p align="left">
+  <a href="mailto:fagnersales@protonmail.com">
+    <img src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/fagner-sales-03a79b268">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://fagner-sales.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfólio"/>
+  </a>
+</p>
+
+</p>
+
