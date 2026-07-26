@@ -8,7 +8,6 @@ Atualmente estou aprimorando minhas habilidades através de projetos práticos e
 
 ## 🚀 Sobre mim
 
-* 💻 Desenvolvendo projetos para aprimorar minhas habilidades técnicas.
 * 🌐 Desenvolvendo landing pages modernas, responsivas e focadas na experiência do usuário.
 * 📚 Estudando HTML, CSS, JavaScript e C#.
 * 🌱 Aprendendo continuamente novas tecnologias e boas práticas.
